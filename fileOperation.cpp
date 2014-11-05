@@ -1,7 +1,7 @@
 /*
 
-ofstream: Stream class to write on files
-ifstream: Stream class to read from files
+ofstream ( output file stream ) : Stream class to write on files    / take input from keyboard and write in file /
+ifstream ( input file stream ): Stream class to read from files
 fstream: Stream class to both read and write from/to files.
 
 */
