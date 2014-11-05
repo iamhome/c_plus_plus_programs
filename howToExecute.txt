@@ -1,0 +1,3 @@
+1).go
+2).compile fileName.cpp
+3).run fileName.cpp
